@@ -1,9 +1,11 @@
-package com.twofivesix.uwspCard;
+package com.twofivesix.uwspCard.activities;
+
+import com.twofivesix.uwspCard.R;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class Main extends Activity {
+public class MainActivity extends Activity {
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
