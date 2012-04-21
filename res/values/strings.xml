@@ -4,4 +4,12 @@
     <string name="hello">Hello World, Main!</string>
     <string name="app_name">UWSPCard</string>
 
+    <string name="login">Login</string>
+
+    <string name="user_id">User ID</string>
+
+    <string name="password">Password</string>
+
+    <string name="keep_me_logged_in">Keep Me Logged In</string>
+
 </resources>
